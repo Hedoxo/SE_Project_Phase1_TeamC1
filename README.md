@@ -4,14 +4,14 @@
 
 ## Team Leader:
 - **Name:** Albert Kola
-- **GitHub:** [@Hedoxooo](https://github.com/Hedoxooo)
+- **GitHub:** [@albertkola](https://github.com/albertkola)
 
 ## Team Members:
 
 **Roena Vrana** | [@roenavrana](https://github.com/roenavrana) | rvrana@epoka.edu.al |
 **Elert Xhaferaj** | [@exhaferaj23](https://github.com/exhaferaj23) | exhaferaj23@epoka.edu.al |
 **Anisa Rami** | [@anisarami](https://github.com/anisarami) | arami23@epoka.edu.al |
-**Endri Hysaj** | [@e-hysaj](https://github.com/e-hysaj) | endrihysaj30@gmail.com |
+**Endri Hysaj** | [@ehysaj](https://github.com/ehysaj) | ehysaj23@epoka.edu.al |
 
 # Project Details
 
